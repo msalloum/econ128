@@ -8,4 +8,4 @@ In classification, the goal is to predict a class label, which is a choice from 
 
 Take a look at an example in the following tutorial:
 
-1. [Part A] (https://github.com/msalloum/econ128/blob/master/Labs/Lab5/Lab5 - Logistic Regression.ipynb) 
+1. [Part A] (https://github.com/msalloum/econ128/blob/master/Labs/Lab5/Lab5-Logistic-Regression.ipynb) 

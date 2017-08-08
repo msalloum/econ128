@@ -11,4 +11,4 @@ Linear regression, or ordinary least squares (OLS), is the simplest and most cla
 
 Take a look at an example in the following tutorial:
 
-1. [Part A] (https://github.com/msalloum/econ128/blob/master/Labs/Lab4/Lab 4 - Linear Regression.ipynb) 
+1. [Part A] (https://github.com/msalloum/econ128/blob/master/Labs/Lab4/Lab4-Linear-Regression.ipynb) 

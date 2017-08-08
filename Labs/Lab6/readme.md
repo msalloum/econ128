@@ -9,6 +9,6 @@ In this tutorial, you will discover how to calculate and plot autocorrelation an
 
 Take a look at an example in the following tutorial:
 
-1. [Part A] (https://github.com/msalloum/econ128/blob/master/Labs/Lab6/Lab6 - Part A - Computing ACF & PACF.ipynb) 
+1. [Part A] (https://github.com/msalloum/econ128/blob/master/Labs/Lab6/Lab6-PartA-Computing-ACF-PACF.ipynb) 
 
-2. [Part B] (https://github.com/msalloum/econ128/blob/master/Labs/Lab6/Lab6 - Part B - Computing ACF.ipynb) 
+2. [Part B] (https://github.com/msalloum/econ128/blob/master/Labs/Lab6/Lab6-PartB-Computing-ACF.ipynb) 
